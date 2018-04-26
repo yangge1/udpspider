@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "async": "^2.6.0",
     "bencode": "^2.0.0"
   }
 }
